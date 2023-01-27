@@ -1,0 +1,25 @@
+{
+  "name": "animesapi",
+  "version": "1.0.0",
+  "description": "Api de pesquisa de animes.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllanKaio21/AnimesApi.git"
+  },
+  "keywords": [],
+  "author": "@AllanKaio21",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllanKaio21/AnimesApi/issues"
+  },
+  "homepage": "https://github.com/AllanKaio21/AnimesApi#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.0"
+  }
+}
